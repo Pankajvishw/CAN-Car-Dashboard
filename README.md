@@ -55,7 +55,7 @@ Each ECU performs a dedicated role to collectively represent a functional vehicl
 - When the **gear position is set to 8 (Gr)**, the system detects a potential collision.
 - The dashboard (ECU3) clears the display and shows:
 
-```yaml
+
 - Normal dashboard updates are paused during this state.
 - Once the gear is changed back to any normal position, the dashboard display is restored automatically.
 
