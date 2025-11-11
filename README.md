@@ -93,8 +93,8 @@ Each ECU performs a dedicated role to collectively represent a functional vehicl
 
 **Pankaj Kumar**  
 Embedded Systems Enthusiast | B.Tech ECE Graduate  
-📎 [LinkedIn](https://linkedin.com/in/your-profile)  
-💻 [GitHub](https://github.com/your-username)
+📎 [LinkedIn](https://www.linkedin.com/in/pankaj-kumar-b24bb4336)  
+💻 [GitHub](https://github.com/Pankajvishw)
 
 ---
 
